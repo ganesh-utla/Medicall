@@ -1,4 +1,4 @@
-# GFG SFI
+# MediCall
 
 Quad's Team repo for GFG's Solving for India Hackathon
 
